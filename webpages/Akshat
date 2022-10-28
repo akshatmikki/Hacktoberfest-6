@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style main.css.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="photo/wq1zrsfvi5pep2zwyxyi.jpg" alt="logo" style="height: 50px;
+                    width: 50px" href="site.html">
+                </a>
+            </div>
+            <div class="search">
+                <form >
+                    <input type="search" name="s" placeholder="Search Products ,Brands and More...">
+                    <input type="submit" value=">">
+                </form>
+            </div>
+            <div class="clearfix"></div>
+        </header>
+            <header>
+            <nav class="main-menu">
+                <ul>
+                    <li><a href="#">Mens</a>
+                    <ul class="drop">
+                        <li><a href="#">T-Shirts</a></li>
+                        <li><a href="#">Trousers</a></li>
+                    </ul>
+                </li>
+                    <li><a href="#">Womens</a>
+                        <ul class="drop">
+                            <li><a href="#">Dresses</a></li>
+                            <li><a href="#">Sarees</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Kids</a>
+                    <ul class="drop">
+                        <li><a href="#">T-Shirts</a></li>                        
+                        <li><a href="#">Dresses</a></li>
+                    </ul>
+                    </li>
+                    <li><a href="#">Home & Living</a>
+                        <ul class="drop">
+                            <li><a href="#">Bedsheets</a></li>
+                            <li><a href="#">Bed Covers</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Offers</a>
+                        <ul class="drop">
+                            <li><a href="#">Shoes at 50%</a></li>
+                            <li><a href="#">Jeans at 50%</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <section class="banner cycle-slideshow">
+            <img src="photo/83f92a9a-9e21-4f29-963e-bf3a89b965441599571811574-desktop--1-.webp" alt="banner 1">
+            <img src="photo/7cf79108-774a-4a8b-b174-9d58f095d4611601056044005-Tees_Desk.webp" alt="banner 2">
+            <img src="photo/567ee7a5-8ec7-4480-8b86-2e32b3b92caf1601056044225-Dressberry_Desk.webp" alt="banner 3">
+            <img src="photo/16b2f09a-30f2-4da0-9c53-585da95fb6411601107735865-DK_Banner.jpg" alt="banner 4">
+            <img src="photo/b78a65d0-1f37-491d-b844-91351b324bea1601107735819-DK_Banner_1.jpg" alt="banner 5">
+        </section>
+        <section class="content-holder">
+            <article class="content">
+                <main>
+                    <h2>Online Shopping Made Easy At Myntra </h2>
+                    <p>
+                        If you would like to experience the best of online shopping for men, women and kids in India,
+                        you are at the right place. Myntra is the ultimate destination for fashion and lifestyle,
+                        being host to a wide array of merchandise including clothing, footwear, accessories, jewellery, personal care products and more.
+                        It is time to redefine your style statement with our treasure-trove of trendy items.
+                        Our online store brings you the latest in designer products straight out of fashion houses. 
+                        You can shop online at Myntra from the comfort of your home and get your favourites delivered right to your doorstep.
+                    </p>
+                    <h2>Best Online Shopping Site In India For Fashion</h2>
+                    <p>
+                        Be it clothing, footwear or accessories, Myntra offers you the ideal combination of fashion and functionality for men, women and kids.
+                        You will realise that the sky is the limit when it comes to the types of outfits that you can purchase for different occasions.
+                        <ol>
+                            <li>
+                                <h3>Smart Mens Clothing:</h3>
+                                <p>
+                                    At Myntra you will find myriad options in smart formal shirts and trousers, cool T-shirts and jeans, or kurta and pyjama combinations for men. 
+                                    Wear your attitude with printed T-shirts. Create the back-to-campus vibe with varsity T-shirts and distressed jeans. 
+                                    Be it gingham, buffalo, or window-pane style, checked shirts are unbeatably smart. 
+                                    Team them up with chinos, cuffed jeans or cropped trousers for a smart casual look. 
+                                    Opt for a stylish layered look with biker jackets. Head out in cloudy weather with courage in water-resistant jackets. 
+                                    Browse through our innerwear section to find supportive garments which would keep you confident in any outfit.
+                                </p>
+                            </li>
+                            <li>
+                                <h3>Trendy women’s clothing:</h3>
+                                <p>
+                                    Online shopping for women at Myntra is a mood-elevating experience. 
+                                    Look hip and stay comfortable with chinos and printed shorts this summer. 
+                                    Look hot on your date dressed in a little black dress, or opt for red dresses for a sassy vibe. 
+                                    Striped dresses and T-shirts represent the classic spirit of nautical fashion. 
+                                    Choose your favourites from among Bardot, off-shoulder, shirt-style, blouson, embroidered and peplum tops, to name a few. 
+                                    Team them up with skinny-fit jeans, skirts or palazzos. Kurtis and jeans make the perfect fusion-wear combination for the cool urbanite. 
+                                    Our grand sarees and lehenga-choli selections are perfect to make an impression at big social events such as weddings. 
+                                    Our salwar-kameez sets, kurtas and Patiala suits make comfortable options for regular wear.
+                                </p>
+                            </li>
+                            <li>
+                                <h3>Fashionable footwear:</h3>
+                                <p>
+                                    While clothes maketh the man, the type of footwear you wear reflects your personality. 
+                                    We bring you an exhaustive lineup of options in casual shoes for men, such as sneakers and loafers. 
+                                    Make a power statement at work dressed in brogues and oxfords. 
+                                    Practice for your marathon with running shoes for men and women. 
+                                    Choose shoes for individual games such as tennis, football, basketball, and the like. 
+                                    Or step into the casual style and comfort offered by sandals, sliders, and flip-flops. 
+                                    Explore our lineup of fashionable footwear for ladies, including pumps, heeled boots, wedge-heels, and pencil-heels. 
+                                    Or enjoy the best of comfort and style with embellished and metallic flats.
+                                </p>
+                            </li>
+                            <li>
+                                <h3>Stylish accessories:</h3>
+                                <p>
+                                    Myntra is one of the best online shopping sites for classy accessories that perfectly complement your outfits. 
+                                    You can select smart analogue or digital watches and match them up with belts and ties. 
+                                    Pick up spacious bags, backpacks, and wallets to store your essentials in style.
+                                    Whether you prefer minimal jewellery or grand and sparkling pieces, our online jewellery collection offers you many impressive options.
+                                </p>
+                            </li>
+                            <li>
+                                <h3>Fun and frolic:</h3>
+                                <p>
+                                    Online shopping for kids at Myntra is a complete joy. 
+                                    Your little princess is going to love the wide variety of pretty dresses, ballerina shoes, headbands and clips. Delight your son by picking up sports shoes, superhero T-shirts, football jerseys and much more from our online store. 
+                                    Check out our lineup of toys with which you can create memories to cherish.
+                                </p>
+                            </li>
+                        </ol>
+                    </p>
+                </main>
+            </article>
+            <aside class="sidebar">
+                <div>
+                    <h3>Offers</h3>
+                    <ul>
+                        <img src="photo/af121217341220665bc725e2d16036df.jpg" alt="offers" style="height: 150px; width: 200px;"><br><br><br>
+                        <img src="photo/maxresdefault.jpg" alt="offers" style="height: 150px; width: 200px;"><br><br><br>
+                        <img src="photo/1564479880.png" alt="offers" style="height: 150px; width: 200px;"><br><br><br>
+                        <img src="photo/Myntra-Paypal-New-Year-Offer-2020-Flipshope.jpg" alt="offers" style="height: 150px; width: 200px;">
+                    </ul>
+                </div>
+            </aside>
+        </section>
+        <footer class="main-footer">
+            <div class="footer-box">
+                <h3>ONLINE SHOPPING</h3>
+                <ul>
+                    <li><a href="#">Mens</a></li>
+                    <li><a href="#">Womens</a></li>
+                    <li><a href="#">Kids</a></li>
+                    <li><a href="#">Home & Living</a></li>
+                    <li><a href="#">Offers</a></li>
+                    <li><a href="#">Gift Cards</a></li>
+                </ul>
+            </div>
+            <div class="footer-box">
+                <h3>USEFUL LINKS</h3>
+                <ul>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">FAQ</a></li>
+                    <li><a href="#">T&C</a></li>
+                    <li><a href="#">Terms Of Use</a></li>
+                    <li><a href="#">Track Orders</a></li>
+                    <li><a href="#">Shipping</a></li>
+                </ul>
+            </div>
+            <div class="footer-box">
+                <h3>EXPERIENCE MYNTRA APP ON MOBILE</h3>
+                <ul>
+                    <li><img src="photo/80cc455a-92d2-4b5c-a038-7da0d92af33f1539674178924-google_play.png" alt="app" style="height: 40px; width: 100px; " href="https://play.google.com/store/apps/details?id=com.myntra.android&hl=en_IN"></li>
+                    <li><img src="photo/bc5e11ad-0250-420a-ac71-115a57ca35d51539674178941-apple_store.png" alt="app" style="height: 40px; width: 100px;" href="https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059"></li>
+                    <li><h4>KEEP IN TOUCH</h4></li>
+                    <li><a href="https://www.facebook.com/myntra" data-reactid="95">
+                        <img src="https://constant.myntassets.com/web/assets/img/d2bec182-bef5-4fab-ade0-034d21ec82e31574604275433-fb.png" style="width: 20px; height: 20px;"></a>
+                    </li>
+                    <li><a href="https://twitter.com/myntra" data-reactid="97">
+                        <img src="https://constant.myntassets.com/web/assets/img/f10bc513-c5a4-490c-9a9c-eb7a3cc8252b1574604275383-twitter.png" style="width: 20px; height: 20px;"></a>
+                    </li>
+                    <li><a href="https://www.youtube.com/user/myntradotcom" data-reactid="99">
+                        <img src="https://constant.myntassets.com/web/assets/img/a7e3c86e-566a-44a6-a733-179389dd87111574604275355-yt.png" style="width: 28px; height: 20px;"></a>
+                    </li>
+                    <li><a href="https://www.instagram.com/myntra" data-reactid="101">
+                        <img src="https://constant.myntassets.com/web/assets/img/b4fcca19-5fc1-4199-93ca-4cae3210ef7f1574604275408-insta.png" style="width: 20px; height: 22px; position: relative; top: 1px;"></a></li>
+                </ul>
+            </div>
+            <div class="footer-box">
+                <address>
+                    <h3>Company Name</h3>
+                    <p>#100, Someplace, Somewhere far, 54654</p>
+                    <p>Email:<a href="mailto:contact@someone.com">contact@someone.com </a></p>
+                    <p>Ph:<a href="tel:1234567890">1234567890</a></p>
+                </address>
+            </div>
+            <div class="clearfix"></div>
+        </footer>
+        <div class="copy">
+            <p><small>Copyright &copy; 2020. All Rights Reserved</small></p>
+        </div>
+    </div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="http://malsup.github.com/jquery.cycle2.js"></script>
+</body>
+</html>
